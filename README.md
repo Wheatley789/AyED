@@ -1,5 +1,3 @@
-# Repositorio Personal
-
 Nombre: Gian Carlos  
 
 Apellido: Quispe Ñahui
